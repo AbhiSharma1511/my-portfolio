@@ -4,8 +4,8 @@ import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
-import nextjs from "../assets/nextjs.png";
-import graphql from "../assets/graphql.png";
+import javapng from "../assets/javapng.png";
+import cpng from "../assets/cpng.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
 
@@ -21,13 +21,13 @@ const Experience = () => {
     {
       id: 2,
       src: css,
-      title:'CSS',
+      title:'Basic CSS',
       style: 'shadow-blue-500'
     },
     {
       id: 3,
       src: javascript,
-      title:'Javascript',
+      title:'Basic Javascript',
       style: 'shadow-yellow-500'
     },
     {
@@ -38,15 +38,15 @@ const Experience = () => {
     },
     {
       id: 5,
-      src: nextjs,
-      title:'NextJs',
+      src: javapng,
+      title:'Java',
       style: 'shadow-white'
 
     },
     {
       id: 6,
-      src: graphql,
-      title:'GraphQL',
+      src: cpng,
+      title:'Basic C',
       style: 'shadow-pink-400'
     },
     {
