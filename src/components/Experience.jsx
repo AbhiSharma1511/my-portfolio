@@ -8,6 +8,7 @@ import javapng from "../assets/javapng.png";
 import cpng from "../assets/cpng.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
+import figma from "../assets/figma.jpg";
 
 const Experience = () => {
   const images = [
@@ -59,6 +60,13 @@ const Experience = () => {
       id: 8,
       src: tailwind,
       title:'Tailwind',
+      style: 'shadow-sky-400'
+    },
+
+    {
+      id: 9,
+      src: figma,
+      title:'Figma',
       style: 'shadow-sky-400'
     },
   ];
