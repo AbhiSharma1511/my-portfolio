@@ -14,7 +14,7 @@ const SocialLinks = () => {
         LinkedIn <FaLinkedin size={30}/>
         </>
       ),
-      href:'https://www.linkedin.com/mynetwork/',
+      href:'https://www.linkedin.com/in/abhinav-sharma-686415224/',
       style: 'rounded-tr-lg'
     },
     {
@@ -33,7 +33,7 @@ const SocialLinks = () => {
         Mail <HiOutlineMail size={30}/>
         </>
       ),
-      href:'abhisharmaa9105@gmail.com',
+      href:'mailto:abhisharmaa9105@gmail.com',
     },
     {
       id:4,
